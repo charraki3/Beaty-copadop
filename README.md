@@ -1,2 +1,2 @@
-# Beaty-copadop
+# Beauty-copadop
 SFSC Tests
